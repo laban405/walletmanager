@@ -38,9 +38,10 @@ dependencies:
   overlay_support: ^1.0.3
   loading_indicator: ^1.1.0
   flutter_launcher_icons: ^0.7.4
-  flutter_datetime_picker:
-    git:
-      url: https://github.com/derohimat/flutter_datetime_picker.git
+  flutter_datetime_picker: ^1.4.0
+#  flutter_datetime_picker:
+#    git:
+#      url: https://github.com/derohimat/flutter_datetime_picker.git
 
 
   # The following adds the Cupertino Icons font to your application.
